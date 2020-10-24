@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF: ![](https://i.imgur.com/Co57fig.gif)
 
 
 ## License
