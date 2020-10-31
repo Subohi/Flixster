@@ -6,6 +6,19 @@ Submitted by: **Subohi Agarwal**
 
 Time spent: **3** hours spent in total
 
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [ ] (5pts) User can tap a cell to see more details about a particular movie.
+- [ ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+
+### App Walkthrough GIF
+
+
+## Flix Part 1
 ## User Stories
 
 The following **required** functionality is complete:
