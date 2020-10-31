@@ -11,19 +11,19 @@ Time spent: **3** hours spent in total
 ### User Stories
 
 #### REQUIRED (10pts)
-- [ ] (5pts) User can tap a cell to see more details about a particular movie.
-- [ ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 
 ### App Walkthrough GIF
-
+GIF: ![]https://i.imgur.com/3E1BKXM.gif
 
 ## Flix Part 1
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can scroll to look at various movies available.
+* [x] User can scroll to look at various movies available.
 
 
 
